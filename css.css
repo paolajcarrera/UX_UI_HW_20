@@ -1,0 +1,278 @@
+.header {
+    background-color: #150C37;
+    width: 100%;
+    height: 400px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+h1 {
+    position: absolute;
+    top: 70px;
+    left: 100px;
+}
+
+.navbar {
+    position: absolute;
+    top: 130px;
+    left: 90px;
+}
+
+.quickDescription {
+    position: absolute;
+    right: 100px;
+    left: 550px;
+    top: 80px;
+}
+
+.details {
+    position: absolute;
+    right: 120px;
+    top: 230px;
+}
+
+.logo {
+    width: 280px;
+    height: 120px;
+
+    position: absolute;
+    left: 90px;
+    top: 450px;
+}
+
+.overview {
+    font-family: 'Noto Sans', sans-serif;
+    width: 100%;
+    height: 750px;
+    background-color: white;
+}
+
+.pOverview {
+    position: absolute;
+    top: 450px;
+    right: 120px;
+
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.mobile {
+    width: 1000px;
+    height: 700px;
+
+    position: absolute;
+    top: 450px;
+    left: 370px;
+}
+
+.desktop {
+    width: 1300px;
+    height: 950px;
+
+    position: absolute;
+    top: 410px;
+    left: 480px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #CC03AC;
+    position: absolute;
+    top: 580px;
+    left: 130px;
+}
+
+.contextBio {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 610px;
+    left: 130px;
+    right: 720px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #CC03AC;
+    position: absolute;
+    top: 730px;
+    left: 130px;
+}
+
+.problemBio {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 760px;
+    left: 130px;
+    right: 740px;
+}
+
+.subtitle1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #CC03AC;
+    position: absolute;
+    top: 880px;
+    left: 130px;
+}
+
+.solutionBio {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 910px;
+    left: 130px;
+    right: 740px;
+}
+
+.research {
+    background-color: #DBDDF2;
+}
+
+.card {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.cardContainer {
+    background-color: #DBDDF2;
+    
+}
+
+.empathyMap {
+    width: 80%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.insight {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.jumbotron {
+    background-color: #15CDF5;
+}
+
+.title3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.display-4 {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.userTesting {
+    background-color: white;
+}
+
+.title4 {
+    position: static;
+    margin-right: 120px;
+    margin-left: 1100px;
+
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.subtitle3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #CC03AC;
+    position: static;
+    margin-left: 130px;
+}
+
+.subtitle4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #CC03AC;
+    position: static;
+    margin-left: 130px;
+}
+
+.primaryNav {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    position: static;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 130px;
+    margin-right: 120px;
+}
+
+.listening {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    position: static;
+    margin-top: 15px;
+    margin-bottom: 80px;
+    margin-left: 130px;
+    margin-right: 120px;
+}
+
+.proto {
+    background-color: #211161;
+    width: 100%;
+    height: 300px;
+}
+
+.title5 {
+    position: static;
+    margin-top: 50px;
+    margin-right: 120px;
+    margin-left: 1050px;
+    padding-top: 30px;
+    
+
+    font-weight: bold;
+    font-size: 28px;
+    color: white;
+}
+
+.logoLight {
+    width: 280px;
+    height: 120px;
+
+    position: static;
+    margin-left: 90px;
+}
+
+.modal-content {
+    background-color: black;
+    color: white;
+}
+
+.modal-body1 {
+    background-color: black;
+    color: white;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.desktop-img {
+    max-height: 100%;
+    max-width: 500px;
+}
+
+.close {
+    color: white;
+}
+
+.btn {
+    color: black;
+    background-color: #F3E140;
+}
